@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6pHDY1m6zqGfyXgVbyIa4Z7/fGO0DdZ0y1qmxBixcBWuYCLZ2b5UOtI4hFkoQS2Wfi5ENEtvu6Wao13aYPnSnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Liam\\OneDrive\\Desktop\\Programming Projects\\C# Programs\\Sorting Algorithm\\Sorting Algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Liam\\.nuget\\packages\\raylib-cs\\5.0.0\\raylib-cs.5.0.0.nupkg.sha512",
+    "C:\\Users\\Liam\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
