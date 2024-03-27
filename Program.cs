@@ -8,7 +8,6 @@ namespace SortingAlgorithm
         const int screenHeight = 450;
         const int arrayLength = 100;
         static bool complete = false;
-        static bool swapped=false;
         static int fullSwapped=0;
         static bool paused = false;
         static void BubbleSort(int[] arr,int i)
